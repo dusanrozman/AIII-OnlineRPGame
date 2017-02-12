@@ -1,7 +1,7 @@
 # AIII-OnlineRPGame
 
 # Acknowledgement 
-This repository contains the work of Daniel Brockhaus and *Intent Software*. This repository will not have the complete game files and will be limited to certain files with the intention to try and best represent some of the work I (Dusan Rozman) was able to contribute to the open source project. I have done my best to highlight where possible the additions I have made in attempt to avoid misrepresentation of my work.
+This repository contains the work of Daniel Brockhaus and *Intent Software*. This repository will not have the complete game files and will be limited to certain files with the intention to try and best represent some of the work I (Dusan Rozman) was able to contribute to the open source project. I have done my best to highlight where possible the additions I have made in an attempt to avoid misrepresentation of my work.
 
 Please note: Having worked with several other hobbyist developers, I tried my best to remove any code that was not written by myself or Intent Software out of respect to those individuals. That said, if I missed something and you see your work in these files that you do not wish to be public, please contact me with the file and line numbers and I can work to remove it.
 
